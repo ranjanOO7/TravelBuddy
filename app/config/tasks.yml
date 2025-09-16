@@ -1,0 +1,11 @@
+gather_information_task:
+  description: >
+    Your task is to gather and create a list of all the famous, must-visit places in {destination}.
+  expected_output: >
+    Gather a list of all the famous tourist including must visits and religious.
+  
+itinerary_planner:
+  description: >
+    Your task is to create a complete itinerary plan for {destination} for {days} days.
+  expected_output: >
+    Create a complete itinerary plan for {destination} including all the places to visit within {days} days.
