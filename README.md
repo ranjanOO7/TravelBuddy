@@ -1,0 +1,1 @@
+## The Travel Buddy project is a Ai tool to make your Travel planning in an innovative and easy way.
