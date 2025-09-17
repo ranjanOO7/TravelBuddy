@@ -1,0 +1,12 @@
+flight_search_task:
+  description: >
+    Your job is to find the available, best and cheapest flight from {source} to {destination} for {date}.
+  expected_output: >
+    Provide a table of flight options available with columns -
+      1. Flight source
+      2. Flight destination
+      3. Flight departure date and time
+      4. Total journey time
+      5. Price
+      6. Airline flight number
+      7. Best booking site
