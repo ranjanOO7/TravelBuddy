@@ -9,7 +9,7 @@ load_dotenv()
 
 @CrewBase
 class FlightAgent:
-    #This Purpose of this agent is to assist in flight searching and booking.#
+    """This Purpose of this agent is to assist in flight searching and booking."""
 
     agents_config = "config/travel/agents.yml"
     tasks_config = "config/travel/tasks.yml"
